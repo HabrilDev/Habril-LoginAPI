@@ -1,0 +1,18 @@
+2022-05-21 22:35:41,646 - INFO - The code is in INIT segment: 
+2022-05-21 22:35:41,646 - INFO - Creating socket instance.
+2022-05-21 22:35:41,646 - INFO - Connecting to cryotec.boldmoon.in on the port 5555.
+2022-05-21 22:35:41,650 - INFO - Connected to cryotec.boldmoon.in on the port 5555.
+2022-05-21 22:35:41,650 - DEBUG - 
+The code is in USERNAME segment: 
+2022-05-21 22:35:41,650 - DEBUG - Entered username loop.
+2022-05-21 22:35:41,650 - DEBUG - Requesting user for username
+2022-05-21 22:35:53,875 - DEBUG - Sending the entered username to cryotec.boldmoon.in
+2022-05-21 22:35:53,875 - DEBUG - Waiting username verification response from cryotec.boldmoon.in
+2022-05-21 22:35:53,877 - DEBUG - Received username verification response from cryotec.boldmoon.in
+2022-05-21 22:35:53,877 - DEBUG - UDE response from cryotec.boldmoon.in
+2022-05-21 22:35:53,877 - DEBUG - Entered username loop.
+2022-05-21 22:35:53,877 - DEBUG - Requesting user for username
+2022-05-21 22:36:11,258 - DEBUG - Sending the entered username to cryotec.boldmoon.in
+2022-05-21 22:36:11,259 - DEBUG - Waiting username verification response from cryotec.boldmoon.in
+2022-05-21 22:36:11,261 - DEBUG - Received username verification response from cryotec.boldmoon.in
+2022-05-21 22:36:11,261 - DEBUG - User name exists, going to break uname loop.
